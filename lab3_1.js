@@ -1,19 +1,6 @@
-let fName = "nok";
-var lname = "kanokwan";
 
-console.log(fName);
-console.log(lname);
-
-{
-    let a = 100;
-    var b = 200;
-    console.log(fName);
-    console.log(lname);
-    console.log(a);
-    console.log(b);
-
-}
-
-    console.log(fName);
-    console.log(lname);
-    console.log(b);
+    console.log(1);
+    console.log(2);
+    console.log(3);
+    console.log(4);
+    console.log(5);
